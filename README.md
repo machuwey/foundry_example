@@ -1,1 +1,1 @@
-Repo made as support source code for [Starknet Book](book.starknet.io)
+Repo made as support source code for [Starknet Book](https://book.starknet.io)
